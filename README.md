@@ -1,5 +1,5 @@
 # Aviator Bot APK for Punters: Overview, Features, and Functionality
-![predictorai](/predictorai.jpg)
+![predictorai](predictorai.jpg)
 This credible and time-tested bot Aviator predictor is an exquisite opportunity to advance your Aviator gaming experience. Transition your winning prospects to a new level, elevating the accuracy and data-driven value of your decision-making. Run the app and connect it to your account with a special activation code (aka an ID number) — you are up in arms to increase your Aviator odds and take the most out of your initial bankroll.
 
 The plane will either escape or crash — its in-game destiny remains the same. Nonetheless, you can benefit from an improved understanding of its Provably Fair technology and random multiplier rises with the help of this professional Aviator Predictor bot. Stay tuned for more\!
